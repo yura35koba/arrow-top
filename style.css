@@ -1,0 +1,20 @@
+#go-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    cursor:pointer;
+    display:none;
+
+    width: 32px;
+    height: 32px;
+    background-image: url("img/up-arrow-black.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.text-block {
+    width: 250px;
+    margin: 50px;
+}
